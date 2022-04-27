@@ -1,2 +1,2 @@
 # module17
-Sorting numbers
+Number sorting program
